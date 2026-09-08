@@ -1,0 +1,6 @@
+{
+  "name": "CLORAGUA",
+  "description": "Asistente de dosificación y control de calidad del agua para consumo humano según normativa D.S. N.° 031-2010-SA y guías MINSA/DIGESA.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
